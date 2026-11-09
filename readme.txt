@@ -4,7 +4,7 @@ Tags: title, page title, post title, hide title, remove title, metaboxes, title 
 Donate link: http://wpgurus.net/title-remover/
 Requires at least: 6.8.3
 Tested up to: 7.1.4
-Stable tag: 1.2.1.1
+Stable tag: 1.2.1.2
 Requires PHP: 8.3.28
 License: License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
