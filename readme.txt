@@ -2,9 +2,10 @@
 Contributors: wpgurus
 Tags: title, page title, post title, hide title, remove title, metaboxes, title remover
 Donate link: http://wpgurus.net/title-remover/
-Requires at least: 2.5
-Tested up to: 5.7.2
-Stable tag: 1.2.1
+Requires at least: 6.8.3
+Tested up to: 7.1.4
+Stable tag: 1.2.1.1
+Requires PHP: 8.3.28
 License: License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,7 +27,7 @@ Some advantages of using this plugin:
 2. Start editing the post or page whose title you want to hide.
 3. Among the boxes on the right side you will find one titled 'Hide Title?'. Click on the checkbox.
 4. Save changes.
- 
+
 == Changelog ==
 = 1.2.1 =
 * Made plugin strings translatable

@@ -1,9 +1,12 @@
 <?php
 /*
-Plugin Name: Title Remover
+Plugin Name: Title Remover — Afterware
 Plugin URI: http://wpgurus.net/title-remover/
+Update URI: https://updates.afterware.io/title-remover
 Description: Gives you the ability to hide the title of any post, page or custom post type item without affecting menus or titles in the admin area.
-Version: 1.2.1
+Version: 1.2.1.1
+Requires PHP: 8.3.28
+Requires at least: 6.8.3
 Author: WPGurus
 Author URI: http://wpgurus.net/
 License: GPL2
